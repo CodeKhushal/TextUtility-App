@@ -1,13 +1,13 @@
 {
-  "main.css": "/TextUtility-App/static/css/main.83664326.chunk.css",
-  "main.js": "/TextUtility-App/static/js/main.e93b53b7.chunk.js",
-  "main.js.map": "/TextUtility-App/static/js/main.e93b53b7.chunk.js.map",
-  "static/js/1.8c60be3b.chunk.js": "/TextUtility-App/static/js/1.8c60be3b.chunk.js",
-  "static/js/1.8c60be3b.chunk.js.map": "/TextUtility-App/static/js/1.8c60be3b.chunk.js.map",
-  "runtime~main.js": "/TextUtility-App/static/js/runtime~main.f3ebf9fd.js",
-  "runtime~main.js.map": "/TextUtility-App/static/js/runtime~main.f3ebf9fd.js.map",
-  "static/css/main.83664326.chunk.css.map": "/TextUtility-App/static/css/main.83664326.chunk.css.map",
-  "index.html": "/TextUtility-App/index.html",
-  "precache-manifest.275996068330944d273974f82d1cf1bd.js": "/TextUtility-App/precache-manifest.275996068330944d273974f82d1cf1bd.js",
-  "service-worker.js": "/TextUtility-App/service-worker.js"
+  "main.css": "./static/css/main.83664326.chunk.css",
+  "main.js": "./static/js/main.bfc20296.chunk.js",
+  "main.js.map": "./static/js/main.bfc20296.chunk.js.map",
+  "static/js/1.8c60be3b.chunk.js": "./static/js/1.8c60be3b.chunk.js",
+  "static/js/1.8c60be3b.chunk.js.map": "./static/js/1.8c60be3b.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.83664326.chunk.css.map": "./static/css/main.83664326.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.7520d6ee9ac38cb2d57089dcdccbccc2.js": "./precache-manifest.7520d6ee9ac38cb2d57089dcdccbccc2.js",
+  "service-worker.js": "./service-worker.js"
 }
